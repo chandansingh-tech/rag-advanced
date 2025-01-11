@@ -56,11 +56,9 @@ In summary, this advanced RAG pipeline offers a significant improvement over the
 
 This repository includes a series of Jupyter Notebooks that delve deeper into specific aspects of the RAG pipeline. Each notebook explores a different concept and provides hands-on experience with its implementation.
 
-1. **Weave and Cohere Setup: Notebook 0** (https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter00.ipynb)
-    * This notebook guides you through setting up the necessary libraries and frameworks like Weave and Cohere for building the RAG pipeline.
+1. **[Weave and Cohere Setup: Notebook 0](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter00.ipynb)** (This notebook guides you through setting up the necessary libraries and frameworks like Weave and Cohere for building the RAG pipeline.)
 
-2. **Baseline RAG Pipeline: Notebook 1** (https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter01.ipynb)
-    * This notebook establishes a foundational RAG pipeline, implementing the core retrieval, generation, and response components.
+2. **[Baseline RAG Pipeline: Notebook 1](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter01.ipynb)** (This notebook establishes a foundational RAG pipeline, implementing the core retrieval, generation, and response components.)
 
 3. **Evaluation: Notebook 2**
     * Notebook 2 dives into evaluation techniques for assessing the performance of your RAG system.
