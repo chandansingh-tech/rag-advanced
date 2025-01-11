@@ -52,5 +52,8 @@ These additional steps are crucial for creating a robust and effective RAG syste
 
 In summary, this advanced RAG pipeline offers a significant improvement over the basic process, resulting in higher-quality responses and a better overall user experience.
 
+## Attributions
 
+* **Figure 1: A professional-looking diagram of an advanced Retrieval Augmented Generation (RAG) Pipeline.**
+    * Source: Weights & Biases course "RAG++: From POC to Production"
 
