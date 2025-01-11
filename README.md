@@ -52,6 +52,34 @@ These additional steps are crucial for creating a robust and effective RAG syste
 
 In summary, this advanced RAG pipeline offers a significant improvement over the basic process, resulting in higher-quality responses and a better overall user experience.
 
+## Accompanying Notebooks
+
+This repository includes a series of Jupyter Notebooks that delve deeper into specific aspects of the RAG pipeline. Each notebook explores a different concept and provides hands-on experience with its implementation.
+
+1. **Weave and Cohere Setup: Notebook 0** (https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter00.ipynb)
+    * This notebook guides you through setting up the necessary libraries and frameworks like Weave and Cohere for building the RAG pipeline.
+
+2. **Baseline RAG Pipeline: Notebook 1** (https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter01.ipynb)
+    * This notebook establishes a foundational RAG pipeline, implementing the core retrieval, generation, and response components.
+
+3. **Evaluation: Notebook 2**
+    * Notebook 2 dives into evaluation techniques for assessing the performance of your RAG system.
+
+4. **Data Ingestion and Preprocessing: Notebook 3**
+    * This notebook covers the process of ingesting and preparing your data for use within the RAG pipeline.
+
+5. **Query Enhancement: Notebook 4**
+    * Notebook 4 explores techniques for refining and improving user queries to enhance retrieval accuracy.
+
+6. **Advanced Retrieval, Reranking and Agentic RAG: Notebook 5**
+    * This notebook delves into advanced retrieval methods, re-ranking strategies, and the concept of Agentic RAG for improved information retrieval.
+
+7. **Response Synthesis and Prompting: Notebook 6**
+    * Notebook 6 explores techniques for crafting effective prompts and fine-tuning the response generation process within the RAG pipeline.
+
+8. **Optimization for Speed and Efficiency**
+    * Notebook 8 addresses optimization strategies for enhancing the speed and efficiency of your RAG system.
+
 ## Attributions
 
 * **Figure 1: A professional-looking diagram of an advanced Retrieval Augmented Generation (RAG) Pipeline.**
