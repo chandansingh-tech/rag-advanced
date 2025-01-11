@@ -15,7 +15,8 @@ The fundamental RAG process consists of the following steps:
 
 This architecture enhances the basic RAG process by incorporating additional steps to improve the quality of the generated responses. The following diagram illustrates the advanced pipeline:
 
-![image](https://github.com/user-attachments/assets/362d3587-5386-4c74-b14e-761cec1cc584)
+![Adv-RAG](https://github.com/user-attachments/assets/c69b0a19-00f5-4fd6-ab4f-ecada69d9c04)
+
 
 The advanced pipeline includes these key enhancements:
 
