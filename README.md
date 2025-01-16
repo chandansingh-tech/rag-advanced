@@ -60,23 +60,23 @@ This repository includes a series of Jupyter Notebooks that delve deeper into sp
 
 2. **[Baseline RAG Pipeline: Notebook 1](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter01.ipynb)** (This notebook establishes a foundational RAG pipeline, implementing the core retrieval, generation, and response components.)
 
-3. **Evaluation: Notebook 2**
+3. **[Evaluation: Notebook 2](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter02.ipynb)**
     * Notebook 2 dives into evaluation techniques for assessing the performance of your RAG system.
 
-4. **Data Ingestion and Preprocessing: Notebook 3**
+4. **[Data Ingestion and Preprocessing: Notebook 3](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter03.ipynb)**
     * This notebook covers the process of ingesting and preparing your data for use within the RAG pipeline.
 
-5. **Query Enhancement: Notebook 4**
+5. **[Query Enhancement: Notebook 4](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter04.ipynb)**
     * Notebook 4 explores techniques for refining and improving user queries to enhance retrieval accuracy.
 
-6. **Advanced Retrieval, Reranking and Agentic RAG: Notebook 5**
+6. **[Advanced Retrieval, Reranking and Agentic RAG: Notebook 5](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter05.ipynb)**
     * This notebook delves into advanced retrieval methods, re-ranking strategies, and the concept of Agentic RAG for improved information retrieval.
 
-7. **Response Synthesis and Prompting: Notebook 6**
+7. **[Response Synthesis and Prompting: Notebook 6](https://github.com/chandansingh-tech/rag-advanced/blob/main/rag-advanced/notebooks/Chapter06.ipynb)**
     * Notebook 6 explores techniques for crafting effective prompts and fine-tuning the response generation process within the RAG pipeline.
 
 8. **Optimization for Speed and Efficiency**
-    * Notebook 8 addresses optimization strategies for enhancing the speed and efficiency of your RAG system.
+    * It addresses optimization strategies for enhancing the speed and efficiency of your RAG system.
 
 ## Attributions
 
